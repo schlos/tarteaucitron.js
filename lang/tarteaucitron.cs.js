@@ -13,6 +13,8 @@ tarteaucitron.lang = {
     "personalize": "Přizpůsobit",
     "acceptAll": "OK, přijmout vše",
     "close": "Zavřít",
+
+    "privacyUrl": "Zásady ochrany osobních údajů",
     
     "all": "Nastavení všech služeb",
 
@@ -27,6 +29,14 @@ tarteaucitron.lang = {
     "more": "Dozvědět se více",
     "source": "Zobrazit oficiální stránku",
     "credit": "Správce cookies od tarteaucitron.js",
+
+    "toggleInfoBox": "Show/hide informations about cookie storage",
+    "title": "Cookies management panel",
+    "cookieDetail": "Cookie detail for",
+    "ourSite": "on our site",
+    "newWindow": "(new window)",
+    "allowAll": "Allow all cookies",
+    "denyAll": "Deny all cookies",
     
     "fallback": "je vypnutý.",
 
@@ -57,5 +67,9 @@ tarteaucitron.lang = {
     "api": {
         "title": "API",
         "details": "API slouží k načtění skriptů: geolokace, vyhledávačů, překladů, ..."
+    },
+    "other": {
+        "title": "Jiný",
+        "details": "Služby pro zobrazení webového obsahu."
     }
 };

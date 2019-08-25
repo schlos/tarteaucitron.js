@@ -13,6 +13,8 @@ tarteaucitron.lang = {
     "personalize": "Персонализировать",
     "acceptAll": "Ок, все активировать",
     "close": "Закрыть",
+
+    "privacyUrl": "Политика конфиденциальности",
     
     "all": "Преференция всем сервисам",
 
@@ -27,6 +29,14 @@ tarteaucitron.lang = {
     "more": "Подробнее",
     "source": "Посетите официальный сайт",
     "credit": "Кукис манаджер tarteaucitron.js",
+
+    "toggleInfoBox": "Show/hide informations about cookie storage",
+    "title": "Cookies management panel",
+    "cookieDetail": "Cookie detail for",
+    "ourSite": "on our site",
+    "newWindow": "(new window)",
+    "allowAll": "Allow all cookies",
+    "denyAll": "Deny all cookies",
     
     "fallback": "Деактивирован.",
 
@@ -57,5 +67,9 @@ tarteaucitron.lang = {
     "api": {
         "title": "АПИ",
         "details": "АПИ используются для загрузки скриптов; геолокация, поисковый мотор и переводы..."
+    },
+    "other": {
+        "title": "Другие",
+        "details": "Службы для отображения веб-контента."
     }
 };
